@@ -24,7 +24,7 @@ I'm an **Aspiring Software Developer** passionate about **Web Development & AI**
 ### 📫 Connect with Me
 - 📩 Email: [your.email@example.com](mailto:jayeshchaudhari717@gmail.com)
 - 💼 LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/jayesh-chaudhari-7b0613287/)](#)
-- 🔗 GitHub: [github.com/yourprofile](#)
+- 🔗 GitHub: [github.com/yourprofile](https://github.com/BitwiseWarrior)
 
 🚀 **Let's code and build something amazing together!**
 
